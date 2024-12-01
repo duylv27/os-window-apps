@@ -5,4 +5,4 @@
 - [Wallpaper](https://apps.microsoft.com/detail/9mxt89hrqc6p?hl=vi-VN&gl=VN)
 
 # Dev Setting
-- Intellij: // TODO
+- Intellij: [settings]([settings.zip](settings.zip))
